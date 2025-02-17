@@ -69,12 +69,4 @@ st.image("Figure_2.png")
 st.markdown("### Model Training Loss")
 st.image("Figure_1.png")
 
-# Footer section
-st.markdown("""
----
-**Contact Us:**
-For more information and queries, please contact us at [contact@example.com](mailto:contact@example.com).
 
-**Follow us on:**
-[Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com) | [Facebook](https://facebook.com)
-""")
