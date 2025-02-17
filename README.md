@@ -45,3 +45,4 @@ Pycharm
 ## Thanks for Watching
 Thank you for checking out my Deepfake Detection and Prevention project! If you found this project useful or interesting, please consider giving it a star🌟 on GitHub. Your support is greatly appreciated!
 # AITruthScan
+# AITruthScan
